@@ -1,4 +1,5 @@
 #{lampaces Demon}
+This theme is named after <a href="https://en.wikipedia.org/wiki/Laplace%27s_demon">Pierre Simon Laplace theory of Determinism</a>
 
 # Installation
 
@@ -13,7 +14,7 @@
 ### Option 2: Plug installation
 
 ```vimscript 
-Plug 'epmor/lampaces-demon'
+Plug 'epmor/lampaces-demon-vim'
 ```
 
 ### Modify .vimrc
