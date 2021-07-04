@@ -47,6 +47,8 @@ EOF
 ```
 
 <div align="center">
+  <h2>OCaml</h2>
+  <img src="./screenshots/ocaml.png">
   <h2>Elixir</h2>
   <img src="./screenshots/elixir.png">
   <h2>Haskell</h2>
