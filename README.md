@@ -47,8 +47,8 @@ EOF
 ```
 
 <div align="center">
+  <h2>Eixir</h2>
   <img src="./screenshots/elixir.png" width="420px;">
-</div>
-<div align="center">
+  <h2>Haskell</h2>
   <img src="./screenshots/haskell.png">
 </div>
