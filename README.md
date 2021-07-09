@@ -57,6 +57,10 @@ EOF
 
 # Pallete
 
+In the same Order as the image below
+
+"4C5801","57BCDA","C0006E","90A900","2D6576"
+
 <div align="center">
   <h2>Pallet</h2>
   <img src="./pallet.png">
