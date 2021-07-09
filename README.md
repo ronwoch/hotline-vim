@@ -54,3 +54,11 @@ EOF
   <h2>Haskell</h2>
   <img src="./screenshots/haskell.png">
 </div>
+
+# Pallete
+
+<div align="center">
+  <h2>Pallet</h2>
+  <img src="./pallet.png">
+</div>
+
