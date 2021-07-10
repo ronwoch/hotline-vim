@@ -1,6 +1,9 @@
 # {lampaces Demon}
 This theme is named after <a href="https://en.wikipedia.org/wiki/Laplace%27s_demon">Pierre Simon Laplace theory of Determinism</a>
 
+# Contributing 
+Feel free to make a PR, with a screenshot of what you've changed. Before and After preferably.
+
 # Installation
 
 ### Option 1: Manual installation
