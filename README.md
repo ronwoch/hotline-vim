@@ -27,6 +27,8 @@ set background=dark
 colorscheme lampaces-demon
 ```
 # Screenshots
+
+## Better Highlighting (optional)
 These screenshots use <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim treesitter for syntax hightlighting</a>
 
 With these options
