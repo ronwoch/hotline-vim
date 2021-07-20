@@ -1,5 +1,4 @@
-# {lampaces Demon}
-This theme is named after <a href="https://en.wikipedia.org/wiki/Laplace%27s_demon">Pierre Simon Laplace theory of Determinism</a>
+# {hotline}
 
 # Contributing 
 Feel free to make a PR, with a screenshot of what you've changed. Before and After preferably.
@@ -9,15 +8,15 @@ Feel free to make a PR, with a screenshot of what you've changed. Before and Aft
 ### Option 1: Manual installation
 
 1.  After downloading the vim script or package, move the
-    `lampaces-demon.vim` file to the `.vim/colors` directory.
+    `hotline.vim` file to the `.vim/colors` directory.
 
-        $ cd lampaces-demon/colors
-        $ mv lampaces-demon.vim ~/.vim/colors/
+        $ cd hotline-vim/colors
+        $ mv hotline.vim ~/.vim/colors/
 
 ### Option 2: Plug installation
 
 ```vimscript 
-Plug 'epmor/lampaces-demon-vim'
+Plug 'epmor/hotline-vim'
 ```
 
 ### Modify .vimrc
