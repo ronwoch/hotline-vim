@@ -1,5 +1,7 @@
 # {hotline}
 
+Previously called Lampaces Demon
+
 # Contributing 
 Feel free to make a PR, with a screenshot of what you've changed. Before and After preferably.
 
@@ -24,7 +26,7 @@ Plug 'epmor/hotline-vim'
 ```vimscript
 syntax enable
 set background=dark
-colorscheme lampaces-demon
+colorscheme hotline
 ```
 # Screenshots
 
