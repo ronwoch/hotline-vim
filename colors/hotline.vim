@@ -383,8 +383,8 @@ call <SID>Link('javaScriptReserved', 'Keyword')
 "}}}
 " NERDTree "{{{
 " ----------------------------------------------------------------------
-call <SID>X('NERDTreeCWD',       s:base12, '',       'italic')
-call <SID>X('NERDTREEDir',       s:base12, '',       'italic')
+call <SID>X('NERDTreeCWD',       s:base12, '',       '')
+call <SID>X('NERDTREEDir',       s:base12, '',       '')
 call <SID>X('NERDTreeExecFile',  s:base15, '',       '')
 call <SID>X('NERDTreeFile',      s:base09, '',       '')
 call <SID>X('NERDTreeClosable',  s:base13, '',       '')
@@ -392,7 +392,7 @@ call <SID>X('NERDTreeOpenable',  s:base09, '',       '')
 call <SID>X('NERDTreeDirSlash',  s:base09, '',       '')
 call <SID>X('NERDTreeHelp',      s:base06, '',       '')
 call <SID>X('NERDTreeHelpKey',   s:base09, '',       '')
-call <SID>X('NERDTreeHelpTitle', s:base11, '',       'italic')
+call <SID>X('NERDTreeHelpTitle', s:base11, '',       '')
 
 call <SID>FTLink('nerdtree', 'Cursor',     'Cursor')
 call <SID>FTLink('nerdtree', 'CursorLine', 'Cursor')
