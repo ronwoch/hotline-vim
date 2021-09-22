@@ -17,7 +17,7 @@ set background=dark
 " GUI & Term Palettes "{{{
 " ----------------------------------------------------------------------
 let s:base00 = ['#002b36', '234']
-let s:base01 = ['#5fd7ff', '198']
+let s:base01 = ['#9fd55e', '198']
 let s:base02 = ['#00ffff', '190']
 let s:base03 = ['#5fd7ff', '198']
 let s:base04 = ['#d0d0d0', '252']
@@ -25,7 +25,7 @@ let s:base05 = ['#ffffff', '255']
 let s:base06 = ['#fdf6e3', '230']
 let s:base07 = ['#87ffff', '123']
 let s:base08 = ['#5fafff', '75']
-let s:base09 = ['#5fd7ff', '81']
+let s:base09 = ['#6fd9fc', '81']
 let s:base10 = ['#00ffff', '14']
 let s:base11 = ['#00ffaf', '49']
 let s:base12 = ['#afffaf', '157']
