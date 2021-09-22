@@ -1,9 +1,9 @@
 " Name:         Hotline
-" Author:       Ethan Morgan <ev@evturn.com>
-" URL:          https://github.com/epmor/lampaces-demon
+" Author:       Ethan Morgan <ethan@epmor.app>
+" URL:          https://github.com/epmor/hotline-vim
 " License:      MIT
-" Created:      June 2021
-" Modified:     July  2021
+" Created:      June 23rd 2021
+" Modified:     Sept 1st  2021
 "
 " Colorscheme initialization "{{{
 " ----------------------------------------------------------------------
@@ -31,8 +31,9 @@ let s:base11 = ['#00ffaf', '49']
 let s:base12 = ['#afffaf', '157']
 let s:base13 = ['#d7ff00', '190']
 let s:base14 = ['#ff5f00', '202']
-let s:base15 = ['#ff0087', '198']
+let s:base15 = ['#5fd7ff', '198']
 let s:base16 = ['#000000', '0']
+let s:base17 = ['#121212', '0']
 "}}}
 " Highlight function "{{{
 " ----------------------------------------------------------------------
