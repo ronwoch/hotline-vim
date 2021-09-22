@@ -18,7 +18,7 @@ set background=dark
 " ----------------------------------------------------------------------
 let s:base00 = ['#002b36', '234']
 let s:base01 = ['#5fd7ff', '198']
-let s:base02 = ['#d7ff00', '190']
+let s:base02 = ['#00ffff', '190']
 let s:base03 = ['#5fd7ff', '198']
 let s:base04 = ['#d0d0d0', '252']
 let s:base05 = ['#ffffff', '255']
