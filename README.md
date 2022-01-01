@@ -18,7 +18,7 @@ Feel free to make a PR, with a screenshot of what you've changed. Before and Aft
 ### Option 2: Plug installation
 
 ```vimscript 
-Plug 'epmor/hotline-vim'
+Plug 'ronwoch/hotline-vim'
 ```
 
 ### Modify .vimrc
